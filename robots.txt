@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahngahyial.custartupcapstone.com/sitemap.xml
